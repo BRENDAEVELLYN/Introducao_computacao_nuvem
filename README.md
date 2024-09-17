@@ -15,7 +15,7 @@ Computação em nuvem é a entrega de serviços de computação através da Inte
 - **Descrição:** Recursos compartilhados entre vários clientes.
 - **Exemplos:** AWS, Microsoft Azure, Google Cloud Platform.
 
-![Logos dos Provedores](./aws_logo.png)
+![Logos dos Provedores](./aws-azure-google-cloud.png)
 
 ### 2. Nuvem Privada
 
@@ -34,7 +34,7 @@ Computação em nuvem é a entrega de serviços de computação através da Inte
 - **Descrição:** Amplamente utilizado, oferece uma vasta gama de serviços.
 - **Serviços:** Computação, armazenamento, bancos de dados, aprendizado de máquina.
 
-![Logo AWS](./aws_logo.png)
+![Logo AWS](./aws_ogo.jpg)
 
 ### 2. Microsoft Azure
 
